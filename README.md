@@ -1,10 +1,10 @@
 # UW-Madison-Course-Search
 
-Authors:
-Allistair Mascarenhas
-Justin Qiao
-Benjamin Ryan Wurster
-Alexander Peseckis
+Authors:  
+Allistair Mascarenhas  
+Justin Qiao  
+Benjamin Ryan Wurster  
+Alexander Peseckis  
 
 Command Line Interface which allows users to check the Computer Science courses offered at UW-Madison and all the prerequisites associated with each course.
 
